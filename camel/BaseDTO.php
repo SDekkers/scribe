@@ -3,7 +3,6 @@
 namespace Knuckles\Camel;
 
 use Illuminate\Contracts\Support\Arrayable;
-use Spatie\LaravelData\Data;
 
 
 class BaseDTO implements Arrayable, \ArrayAccess
